@@ -1,0 +1,17 @@
+.overme{
+  display: block;
+  width: 200px;
+  height: 200px;
+  color:blue;
+  border: solid 1px;
+  background-color: blue;
+
+}
+#reset{
+  display: block;
+  width: 200px;
+  height: 200px;
+  color: green;
+  border: solid 1px;
+  background-color: green;
+}
